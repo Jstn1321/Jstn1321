@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Justin Nguyen</h1>
 <h3 align="center">A high school student</h3>
 
-- I’m currently working on [Manim Animations](https://github.com/Jstn1321/Manim-Projects)
+- I’m currently working on my [AI Exoskeleton](https://github.com/Jstn1321/AI-Exoskeleton)
 
 - I’m currently learning **Manim, cpp, opengl**
 
