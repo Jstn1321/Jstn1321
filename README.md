@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Justin Nguyen</h1>
 <h3 align="center">A high school student</h3>
 
-- I’m currently working on my [AI Exoskeleton](https://github.com/Jstn1321/AI-Exoskeleton)
+- I’m currently working on my [FPGA Synthesizer](https://github.com/Jstn1321/FPGA-Synthesizer)
 
-- I’m currently learning **Manim, cpp, opengl**
+- I’m currently learning **Verilog, Music Theory and Eurorack**
 
 - All of my projects are available at [https://github.com/Jstn1321](https://github.com/Jstn1321)
 
